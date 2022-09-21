@@ -1,0 +1,9 @@
+.Entry-content img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+}
+
+.Entry-published {
+    margin: 0px 0px 0px 10px;
+}

@@ -1,0 +1,29 @@
+figcaption {
+    @extend .s-font;
+}
+
+figure {
+    margin: 10px 0px 0px 0px;
+}
+
+html {
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.s-font {
+    font-size: 0.9em;
+}
+
+.xs-font {
+    font-size: 0.8em;
+}
